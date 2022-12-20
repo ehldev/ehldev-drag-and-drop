@@ -75,7 +75,7 @@ export default {
       for (let i = 1; i <= total; i++) {
         this.items.push({
           id: i,
-          title: `Task ${i}`,
+          title: `Talla ${i}`,
         });
       }
     },

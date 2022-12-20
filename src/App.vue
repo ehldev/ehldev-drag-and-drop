@@ -5,10 +5,10 @@
         <div class="col-md-3 px-0">
           <ul class="list-group">
             <li class="list-group-item">
-              <router-link to="/">One column</router-link>
+              <router-link to="/">Una lista</router-link>
             </li>
             <li class="list-group-item">
-              <router-link to="/two-columns">Two columns</router-link>
+              <router-link to="/two-columns">2 listas</router-link>
             </li>
             <li class="list-group-item">A third item</li>
             <li class="list-group-item">A fourth item</li>
